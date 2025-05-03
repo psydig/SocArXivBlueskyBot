@@ -1,6 +1,6 @@
 # SocArXiv Bluesky Bot
 
-This project builds on the [Bluesky bot template](https://github.com/philnash/bsky-bot) provided by Phil Nash - big thanks! to automatically fetch new PsyArXiv preprints via RSS and post summaries to Bluesky.
+This project builds on the [Bluesky bot template](https://github.com/philnash/bsky-bot) provided by Phil Nash - big thanks! to automatically fetch new SocArXiv preprints via RSS and post summaries to Bluesky.
 
 It uses TypeScript, the `@atproto/api`, and runs as a scheduled task.
 
