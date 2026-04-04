@@ -18907,6 +18907,10 @@
     {
       "title": "Fact-Checks Can Help Inoculate LLMs Against Disinformation",
       "link": "https://osf.io/nrs5z"
+    },
+    {
+      "title": "Researchers waste 80% of LLM annotation costs by classifying one text at a time",
+      "link": "https://osf.io/bxtsf"
     }
   ]
 }
